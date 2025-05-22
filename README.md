@@ -4,12 +4,12 @@
 
 ## Hi, I'm Mayank Rojivadiya 
 I'm Mayank Rojivadiya, a passionate Computer Engineering student with a focus on Full Stack Development and Python.
-- Currently, I work in consulting in the finance & tech space
-- Currently growing through hands-on experience, technical events, and leadership roles in NSS 
+🚀 Currently growing through hands-on experience, technical events, and leadership roles in NSS 
+📚 Always eager to learn, collaborate, and contribute to meaningful tech solutions.
 
 ## 🎓 Education
-- H.S.C from GSHSEB (2021 - 2022) - Performance : 67 % 
-- Bachelor's Degree in Computer Engineering @ LDRP-ITR, Gandhinagar (2022 - 2026)
+📚 H.S.C from GSHSEB (2021 - 2022) - Performance : 67 % 
+🧑‍🎓 Bachelor's Degree in Computer Engineering @ LDRP-ITR, Gandhinagar (2022 - 2026)
 
 ## 🛠 Technologies I Use  
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -29,6 +29,6 @@ I'm Mayank Rojivadiya, a passionate Computer Engineering student with a focus on
 
 ## Socials
 [![Preview](/assets/linkedin.png)](linkedin.com/in/rojivadiya-mayank-a67104273) &nbsp;
-[![Preview](/assets/gmail.png)](mailto:rojivadiyamayank@gmail.com) &nbsp;
-[![Preview](/assets/x-twitter.png)](linkedin.com/in/rojivadiya-mayank-a67104273) &nbsp;
-[![Preview](/assets/instagram.png)](https://www.instagram.com/mayank_patel_0808) &nbsp;
+[![Preview](/assets/ggmail.png)](mailto:rojivadiyamayank@gmail.com) &nbsp;
+[![Preview](/assets/new-twitter-x-logo-transparent-png-4.png)](linkedin.com/in/rojivadiya-mayank-a67104273) &nbsp;
+[![Preview](/assets/instagrammmmmmmmm.png)](https://www.instagram.com/mayank_patel_0808) &nbsp;
