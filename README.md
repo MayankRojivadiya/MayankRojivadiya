@@ -29,6 +29,3 @@ I'm Mayank Rojivadiya, a passionate Computer Engineering student with a focus on
 
 ## Socials
 [![Preview](/assets/linkedin.png)](linkedin.com/in/rojivadiya-mayank-a67104273) &nbsp;
-[![Preview](/assets/ggmail.png)](mailto:rojivadiyamayank@gmail.com) &nbsp;
-[![Preview](/assets/new-twitter-x-logo-transparent-png-4.png)](linkedin.com/in/rojivadiya-mayank-a67104273) &nbsp;
-[![Preview](/assets/instagrammmmmmmmm.png)](https://www.instagram.com/mayank_patel_0808) &nbsp;
