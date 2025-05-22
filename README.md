@@ -1,5 +1,5 @@
 
-![banner](./assets/1710653963643.jpeg)
+![banner](./assets/profile-background.png)
 
 
 ## Hi, I'm Mayank Rojivadiya 
