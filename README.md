@@ -1,5 +1,5 @@
 
-![banner](./assets/profile-background.png)
+![banner](./assets/Github_profile_background.png)
 
 
 ## Hi, I'm Mayank Rojivadiya 
@@ -30,13 +30,15 @@ I'm Mayank Rojivadiya, a passionate Computer Engineering student with a focus on
 ## Socials
 <div align="center">
 
-<a href="https://twitter.com/Mithil_110" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/mithildabhi" target="_blank">
+
+<a href="linkedin.com/in/rojivadiya-mayank-a67104273" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/_mithil_110" target="_blank">
+<a href="https://instagram.com/mayank_patel_0808" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
+<a href="https://x.com/Mayank_Patel_08" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+
 </div>  
