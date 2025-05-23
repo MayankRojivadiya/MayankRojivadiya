@@ -31,7 +31,7 @@ I'm Mayank Rojivadiya, a passionate Computer Engineering student with a focus on
 <div align="center">
 
 <p align="center">
-&nbsp; <a href="./linkedin.com/in/rojivadiya-mayank-a67104273" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://linkedin.com/in/rojivadiya-mayank-a67104273" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="https://twitter.com/Mayank_Patel_08" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://instagram.com/mayank_patel_0808" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="mailto:rojivadiyamayank@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
