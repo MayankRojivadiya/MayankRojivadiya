@@ -26,20 +26,11 @@ I'm Mayank Rojivadiya, a passionate Computer Engineering student with a focus on
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white))
 
 ## Socials
 <div align="center">
 
-
-<!-- <a href="linkedin.com/in/rojivadiya-mayank-a67104273" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/mayank_patel_0808" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://x.com/Mayank_Patel_08" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a> -->
 
 <p align="center">
 &nbsp; <a href="linkedin.com/in/rojivadiya-mayank-a67104273" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
