@@ -1,9 +1,8 @@
 
 ![banner](./assets/Github_profile_background.png)
 
-<div align="center">
+
 ## Hii Everyone 👋
-</div>
 
 I'm Mayank Rojivadiya, a passionate Computer Engineering student with a focus on Full Stack Development and Python. <br>
 - 🚀 Currently growing through hands-on experience, technical events, and leadership roles in NSS <br>
