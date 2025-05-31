@@ -1,8 +1,6 @@
 
 ![banner](./assets/Github_profile_background.png)
 
-
-
 ## Hii Everyone 👋
 
 I'm Mayank Rojivadiya, a passionate Computer Engineering student with a focus on Full Stack Development and Python. <br>
@@ -24,8 +22,8 @@ I'm Mayank Rojivadiya, a passionate Computer Engineering student with a focus on
 ![](https://img.shields.io/badge/Django-86BE00e?style=for-the-badge&logo=Django&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-86BE00?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/MySQL-F79F17?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/mongoDB-7C2D01?style=for-the-badge&logo=mongoDB&color=white)
+![](https://img.shields.io/badge/MySQL-F79F17?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-9afff3?style=for-the-badge&logo=PostgreSQL&color=white)
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -36,8 +34,8 @@ I'm Mayank Rojivadiya, a passionate Computer Engineering student with a focus on
 
 <p align="center">
 &nbsp; <a href="https://linkedin.com/in/rojivadiya-mayank-a67104273" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="https://twitter.com/Mayank_Patel_08" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="mailto:rojivadiyamayank@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://twitter.com/Mayank_Patel_08" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://instagram.com/mayank_patel_0808" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 
 </p>
