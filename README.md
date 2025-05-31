@@ -25,7 +25,7 @@ I'm Mayank Rojivadiya, a passionate Computer Engineering student with a focus on
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-86BE00?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-F79F17?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/mongoDB-d9d9d9?style=for-the-badge&logo=mongoDB&color=white)
+![](https://img.shields.io/badge/mongoDB-7C2D01?style=for-the-badge&logo=mongoDB&color=white)
 ![](https://img.shields.io/badge/PostgreSQL-9afff3?style=for-the-badge&logo=PostgreSQL&color=white)
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
