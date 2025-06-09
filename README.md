@@ -8,7 +8,7 @@ I'm Mayank Rojivadiya, a passionate Computer Engineering student with a focus on
 - 📚 Always eager to learn, collaborate, and contribute to meaningful tech solutions. <br>
 
 ## 🎓 Education
-- 📚 H.S.C from GSHSEB (2021 - 2022) - Performance : 67 % <br>
+- 📚 H.S.C from GSHSEB (2021 - 2022) - Performance :  % <br>
 - 🧑‍🎓 Bachelor's Degree in Computer Engineering @ LDRP-ITR, Gandhinagar (2022 - 2026) <br>
 
 ## 🛠 Technologies I Use  
